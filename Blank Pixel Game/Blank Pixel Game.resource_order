@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"paths","order":6,"path":"folders/paths.yy",},
+    {"name":"object","order":3,"path":"folders/object.yy",},
+    {"name":"rooms","order":2,"path":"folders/rooms.yy",},
+    {"name":"sprites","order":4,"path":"folders/sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Obj_arma","order":3,"path":"objects/Obj_arma/Obj_arma.yy",},
+    {"name":"Obj_explosao","order":6,"path":"objects/Obj_explosao/Obj_explosao.yy",},
+    {"name":"Obj_inimigo","order":7,"path":"objects/Obj_inimigo/Obj_inimigo.yy",},
+    {"name":"obj_mira","order":4,"path":"objects/obj_mira/obj_mira.yy",},
+    {"name":"obj_parede","order":2,"path":"objects/obj_parede/obj_parede.yy",},
+    {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_tiro","order":5,"path":"objects/obj_tiro/obj_tiro.yy",},
+    {"name":"RM_TESTE","order":1,"path":"rooms/RM_TESTE/RM_TESTE.yy",},
+    {"name":"spr_arma","order":2,"path":"sprites/spr_arma/spr_arma.yy",},
+    {"name":"Spr_explosao","order":6,"path":"sprites/Spr_explosao/Spr_explosao.yy",},
+    {"name":"spr_fundo","order":1,"path":"sprites/spr_fundo/spr_fundo.yy",},
+    {"name":"Spr_inimigo","order":7,"path":"sprites/Spr_inimigo/Spr_inimigo.yy",},
+    {"name":"Spr_mira","order":4,"path":"sprites/Spr_mira/Spr_mira.yy",},
+    {"name":"spr_parede","order":3,"path":"sprites/spr_parede/spr_parede.yy",},
+    {"name":"Spr_tiro","order":5,"path":"sprites/Spr_tiro/Spr_tiro.yy",},
+  ],
+}
